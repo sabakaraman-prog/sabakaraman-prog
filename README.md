@@ -1,19 +1,34 @@
 # Hi, I'm Saba 👋
 
-I'm a Computer Science student at the University of Alberta interested in
-software engineering, backend development, and AI infrastructure.
+I'm a Computer Science student at the University of Alberta who enjoys building software from backend APIs to ML-powered applications.
+I'm especially interested in backend development, cloud technologies, and AI infrastructure.
 
-Currently building projects around APIs, machine learning infrastructure,
-containerization, and data processing.
+<h2>🛠️ Technologies & Tools</h2>
 
-## Tech
+<h4>Languages</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/>
+</p>
 
-**Languages:** Java, Python, C, JavaScript, Kotlin, SQL  
-**Backend:** Spring Boot, FastAPI  
-**ML:** PyTorch, Hugging Face Transformers  
-**Cloud & Tools:** Docker, Kubernetes, Git  
-**Frontend/Mobile:** React, Jetpack Compose  
-**Databases:** MySQL, MongoDB
+<h4>Frameworks & Infrastructure</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40"/>
+</p>
+
+<h4>Databases & Tools</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+</p>
 
 ## Featured Projects
 
