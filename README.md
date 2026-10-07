@@ -14,7 +14,7 @@ I'm especially interested in backend development, cloud technologies, and AI inf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/>
 </p>
 
-<h4>Frameworks & Infrastructure</h4>
+<h4>Frameworks & Technologies</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
