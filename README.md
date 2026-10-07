@@ -30,6 +30,12 @@ I'm especially interested in backend development, cloud technologies, and AI inf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
 </p>
 
+## 🌟 Let's Connect!
+
+I'm always happy to connect about software, interesting projects, or new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/saba-karaman-7753a728b) [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?logo=gmail)](mailto:sabakaraman@gmail.com)
+
 ## Featured Projects
 
 ### ModelFlow
